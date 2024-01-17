@@ -1,0 +1,21 @@
+#items
+item.ingot_copper.name=铜锭
+item.check.name=支票
+
+#blocks
+tile.ore_copper.name=铜矿
+tile.shop.name=商店
+tile.seller.name=售卖器
+tile.atm.name=ATM
+tile.buyer.name=自动购买器
+
+#etc
+itemGroup.adminshop=官方商店
+buttontext.buy=购买
+error.buy.storeFormat=至少有一个销售项目的格式不正确。条目需要修复，否则商店可能会导致崩溃！
+error.sell.storeFormat=至少有一个购买项目的格式不正确。条目需要修复，否则商店可能会导致崩溃！
+rateTick= / Tick
+rateSec= / Second
+rateMin= / Minute
+isItem=物品
+isFluid=流体
